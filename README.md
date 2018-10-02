@@ -1,5 +1,5 @@
 # RGB Color Game
-A RGB Color game made by basic javascript and css.
+_A RGB Color game made by basic javascript and css._
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
